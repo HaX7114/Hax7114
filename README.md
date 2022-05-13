@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ahmed Mustafa</h1>
-<h3 align="center">A passionate Software Engineer Specialized in Mobile App Development</h3>
+<h3 align="center">A Passionate Software Engineer Specialized in Mobile App Development</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaX7114](https://github.com/HaX7114)
 
